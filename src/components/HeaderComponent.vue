@@ -16,6 +16,7 @@ export default {
     data() {
         return {
             title: import.meta.env.VITE_APP_TITLE
+            showGithubIcon: false
         };
     }
 };
